@@ -1,0 +1,28 @@
+{
+  "height": 10,
+  "infinite": false,
+  "layers": [
+    {
+      "id": 1,
+      "image": "himitsukichi-logo-512.png",
+      "name": "LogoLayer",
+      "offsetx": 32,
+      "offsety": 0,
+      "opacity": 1,
+      "type": "imagelayer",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "nextlayerid": 2,
+  "nextobjectid": 1,
+  "orientation": "orthogonal",
+  "renderorder": "right-down",
+  "tiledversion": "1.8.4",
+  "tileheight": 32,
+  "tilesets": [],
+  "tilewidth": 32,
+  "type": "map",
+  "version": "1.8"
+}
